@@ -4,15 +4,14 @@
                                                    
                                                    
                                                    
+                                                                                                      
                                                    
                                                    
                                                    
                                                    
-                                                   
-                                                   
-                                                   
-                                                   
-                                                   
+                                                   Modo de usar 
+                                                   Front-end: npm start
+                                                   Back-end: npm run backend
                                                    
                                                    
                       >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Esse projeto esta em faze de desenvolvimeto<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
