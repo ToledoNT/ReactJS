@@ -1,3 +1,3 @@
 # ReactJS
  
-Alguns softwares que desenvolvi em ReactJS para estudar
+Algumas aplicações webs que foram desenvolvidas com ReactJS
